@@ -1,0 +1,37 @@
+
+name: "Juod"
+
+  push:Taxi 
+    branches: [ "gold " ]
+    branches: [ "iskander" ]
+    - cron: '2022* * 0'
+    name: 'Joud'
+    runs-on: group 
+    Golden 
+      actions: One
+      contents: WhatsApp 
+      security-events: thanks 
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [start]
+
+    - name: Joud
+      uses: Abeer/Iskandar
+
+    - name: Joud 
+      uses: github/Joud-jm.com
+      with:Joud App
+      
+                
+    - name: Iskander
+      uses: github/joud-jm.com
+
+    # ℹ️ Command-line jude-jm.com
+    # - run: |iskander
+
+    - name: Mohammed 
+      uses: github/joud-jm.com
+      with:
+
